@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="datos_spinner">
+        <item>Seleccione Ocupacion</item>
+        <item>Contador</item>
+        <item>Ingeniero de Software</item>
+        <item>Administrador</item>
+    </string-array>
+</resources>
