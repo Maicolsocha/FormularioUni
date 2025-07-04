@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Formulario</string>
+    <string name="description">Por favor, completa el formulario con tus datos: nombre y apellidos, correo, dirección, sexo y ocupación.
+    Una vez completado, serás llevado a una nueva pantalla donde podrás ver un resumen de la información ingresada.</string>
 </resources>
